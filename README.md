@@ -21,8 +21,6 @@
 <img align="left" src="https://img.shields.io/badge/-Git-f74e27" alt="Git" />
 <br/>
 <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img align="left" src="https://img.shields.io/badge/-Pycharm-0ca7da" alt="Pycharm" /></a>
-<a href="https://www.jetbrains.com/clion/" target="_blank"> <img align="left" src="https://img.shields.io/badge/-Clion-23cfa3" alt="Clion" /></a>
-<a href="https://www.jetbrains.com/webstorm/" target="_blank"> <img align="left" src="https://img.shields.io/badge/-WebStorm-0adce2" alt="WebStorm" /></a>
 <a href="https://www.visualstudio.com/" target="_blank"> <img align="left" src="https://img.shields.io/badge/-Visual Studio-cc96f9" alt="VS" /></a>
 <a href="https://code.visualstudio.com/" target="_blank"> <img align="left" src="https://img.shields.io/badge/-Visual Studio Code-23aaf2" alt="VScode" /></a>
 <a href="https://www.apifox.cn/" target="_blank"> <img align="left" src="https://img.shields.io/badge/-Apifox-ff3a7b" alt="Apifox" /></a>
